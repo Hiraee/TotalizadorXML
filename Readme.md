@@ -29,7 +29,9 @@
     <li>xml
     <li>tqdm
 </ul>
-
+<br><br>
+<h2>Observações</h2>
+<p>Este projeto tem como objetivo principal o estudo de Python</p>
 
 
 
